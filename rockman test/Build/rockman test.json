@@ -1,0 +1,16 @@
+{
+"companyName": "test unity anhome",
+"productName": "anhome ROCKMAN 2D",
+"productVersion": "0.1",
+"dataUrl": "rockman test.data.unityweb",
+"wasmCodeUrl": "rockman test.wasm.code.unityweb",
+"wasmFrameworkUrl": "rockman test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
