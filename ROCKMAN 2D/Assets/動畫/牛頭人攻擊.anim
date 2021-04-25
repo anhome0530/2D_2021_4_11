@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "\u653B\u64CAboss"
+  m_Name: "\u725B\u982D\u4EBA\u653B\u64CA"
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -43,6 +43,9 @@ AnimationClip:
     - time: 0.5833333
       value: {fileID: 205048453590465016, guid: 255b70e21556b9e488a604f6b274b91a,
         type: 3}
+    - time: 0.6666667
+      value: {fileID: -7426714310930591543, guid: 255b70e21556b9e488a604f6b274b91a,
+        type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -70,12 +73,13 @@ AnimationClip:
     - {fileID: 2504064501263488952, guid: 255b70e21556b9e488a604f6b274b91a, type: 3}
     - {fileID: -8824627984464503118, guid: 255b70e21556b9e488a604f6b274b91a, type: 3}
     - {fileID: 205048453590465016, guid: 255b70e21556b9e488a604f6b274b91a, type: 3}
+    - {fileID: -7426714310930591543, guid: 255b70e21556b9e488a604f6b274b91a, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.6666666
+    m_StopTime: 0.75
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
